@@ -1,0 +1,3 @@
+rootProject.name = 'inAppPurchases'
+
+include ':app'
